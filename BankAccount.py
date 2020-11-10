@@ -35,7 +35,7 @@ class BankAccount:
         print(f'Balance: ${round(self.Balance,2)}')
 
 
-        # 3 Personal acoount
+        # 3 Personal Accounts 
 SamuelMadrigal = BankAccount('Samuel Madrigal','87654321', 12345678, 50.00)
 RafaVasquez = BankAccount('Rafa Vasquez', '12345678', 87654321, 60.00)
 AlexTurcanu = BankAccount('Alex Turcanu', '17473895', 14367489, 70.00)
